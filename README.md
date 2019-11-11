@@ -1,7 +1,9 @@
 # FE-Opdr-Conditions
 ## Frontend Essentials Opdracht Javascript Conditions
 
-Maak de opdracht zoals beschreven in het script.js bestand.
+Maak eerst opdracht 1 en opdracht 2
+
+De opdrachten in de mappen hw-opdracht1 en hw-opdracht2 kan je eventueel thuis maken
 
 
 ### Links
