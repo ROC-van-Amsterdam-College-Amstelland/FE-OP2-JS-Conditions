@@ -9,7 +9,8 @@ var ;
 // jouw code hieronder-->>
 document.getElementById
 
-// C) Vraag de gebruiker om een INPUT waarde door prompt() te gebruiken
+// C) Vraag de gebruiker om een INPUT waarde door prompt() te gebruiken. 
+// Gebruik de prompt()-waarde om een variabelen te 'vullen'
 
 // jouw code hieronder-->>
 var ;
